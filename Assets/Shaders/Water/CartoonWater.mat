@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water
+  m_Name: CartoonWater
   m_Shader: {fileID: -6465566751694194690, guid: b33e2845d8f264747bbb2509ce5d75c9,
     type: 3}
   m_ShaderKeywords: 
@@ -26,8 +26,10 @@ Material:
     - Vector1_28761F33: 0.8
     - Vector1_47B58060: 1
     - Vector1_6E98F0A0: 25.2
+    - Vector1_71D16F79: 1
     - Vector1_814A0BC5: 1.67
     - Vector1_8CA70327: 5
+    - Vector1_C03B31A5: 0
     - Vector1_CC6CE74F: 3
     m_Colors:
     - Color_111B688C: {r: 0, g: 0.8745098, b: 1, a: 0.7843137}
