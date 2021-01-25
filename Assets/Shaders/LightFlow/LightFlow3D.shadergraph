@@ -4,31 +4,31 @@
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"e9a939f8-b406-4e26-92f6-aa389577ceab\"\n    },\n    \"m_Name\": \"_MainText\",\n    \"m_DefaultReferenceName\": \"Texture2D_DFD6E88\",\n    \"m_OverrideReferenceName\": \"_MainTex\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"instanceID\\\":0}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 0\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"e9a939f8-b406-4e26-92f6-aa389577ceab\"\n    },\n    \"m_Name\": \"_MainText\",\n    \"m_DefaultReferenceName\": \"Texture2D_DFD6E88\",\n    \"m_OverrideReferenceName\": \"_MainTex\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"fileID\\\":2800000,\\\"guid\\\":\\\"e59ecd205a2c21842bc15e3c04b4f686\\\",\\\"type\\\":3}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 0\n}"
         },
         {
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"7a8ef821-c46f-458b-9781-63d26701ce21\"\n    },\n    \"m_Name\": \"_AddTex\",\n    \"m_DefaultReferenceName\": \"Texture2D_BC0D650C\",\n    \"m_OverrideReferenceName\": \"_AddTex\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"instanceID\\\":0}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 0\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"7a8ef821-c46f-458b-9781-63d26701ce21\"\n    },\n    \"m_Name\": \"_AddTex\",\n    \"m_DefaultReferenceName\": \"Texture2D_BC0D650C\",\n    \"m_OverrideReferenceName\": \"_AddTex\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"fileID\\\":2800000,\\\"guid\\\":\\\"752b9004e0b6a436a94aeff18009670f\\\",\\\"type\\\":3}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 0\n}"
         },
         {
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.Vector2ShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"dadafdd0-340f-464f-8557-d850d1c19894\"\n    },\n    \"m_Name\": \"_Speed\",\n    \"m_DefaultReferenceName\": \"Vector2_20585D28\",\n    \"m_OverrideReferenceName\": \"_Speed\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"x\": 0.0,\n        \"y\": 1.0,\n        \"z\": 0.0,\n        \"w\": 0.0\n    }\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"dadafdd0-340f-464f-8557-d850d1c19894\"\n    },\n    \"m_Name\": \"_Speed\",\n    \"m_DefaultReferenceName\": \"Vector2_20585D28\",\n    \"m_OverrideReferenceName\": \"_Speed\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"x\": 1.0,\n        \"y\": 0.0,\n        \"z\": 0.0,\n        \"w\": 0.0\n    }\n}"
         },
         {
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.Vector2ShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"eb63afef-fc8a-4f5f-b7f4-b08172fcc688\"\n    },\n    \"m_Name\": \"_XPos\",\n    \"m_DefaultReferenceName\": \"Vector2_F800BF4\",\n    \"m_OverrideReferenceName\": \"_XPos\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"x\": -0.5,\n        \"y\": 0.5,\n        \"z\": 0.0,\n        \"w\": 0.0\n    }\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"eb63afef-fc8a-4f5f-b7f4-b08172fcc688\"\n    },\n    \"m_Name\": \"_XPos\",\n    \"m_DefaultReferenceName\": \"Vector2_F800BF4\",\n    \"m_OverrideReferenceName\": \"_XPos\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"x\": 0.14000000059604646,\n        \"y\": 0.9399999976158142,\n        \"z\": 0.0,\n        \"w\": 0.0\n    }\n}"
         },
         {
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.Vector2ShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"f578f565-813c-4046-ba9d-c0e0802b466e\"\n    },\n    \"m_Name\": \"_YPos\",\n    \"m_DefaultReferenceName\": \"Vector2_2CDEABDC\",\n    \"m_OverrideReferenceName\": \"_YPos\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"x\": 0.0,\n        \"y\": 1.0,\n        \"z\": 0.0,\n        \"w\": 0.0\n    }\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"f578f565-813c-4046-ba9d-c0e0802b466e\"\n    },\n    \"m_Name\": \"_YPos\",\n    \"m_DefaultReferenceName\": \"Vector2_2CDEABDC\",\n    \"m_OverrideReferenceName\": \"_YPos\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"x\": -1.100000023841858,\n        \"y\": 1.309999942779541,\n        \"z\": 0.0,\n        \"w\": 0.0\n    }\n}"
         }
     ],
     "m_SerializedKeywords": [],
@@ -256,7 +256,7 @@
     ],
     "m_PreviewData": {
         "serializedMesh": {
-            "m_SerializedMesh": "{\"mesh\":{\"instanceID\":0}}",
+            "m_SerializedMesh": "{\"mesh\":{\"fileID\":4300000,\"guid\":\"7b41ce0cf4881e942b22b126c24cac74\",\"type\":3}}",
             "m_Guid": ""
         }
     },
