@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Light.unity
-    guid: 8656bd870e2464853949c6e8e8043f8c
+    path: Assets/Scenes/Effects.unity
+    guid: 267197fe307644961be82a7dfbe67818
   m_configObjects: {}
