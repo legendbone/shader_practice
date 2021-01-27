@@ -1,4 +1,4 @@
-﻿Shader "Unlit/Default"
+﻿Shader "Unlit/WaterWave"
 {
     Properties
     {
